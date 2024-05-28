@@ -1,1 +1,1 @@
-# methods of machine learning through laboratory work
+### Machine learning
